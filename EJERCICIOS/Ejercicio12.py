@@ -1,8 +1,4 @@
-#Crear un juego donde se pide por consola un número entre 1 y 10, que se restará de un número 
-# definido dentro del programa y después la "IA" restará otro 
-# número comprendido entre el 1 y el 10, hasta que el resultado sea 0.
-#Mostrar por consola tanto el resultado de la resta del número del jugador como el de la "IA" así como al llegar a 0 el número quien es el ganador 
-#(aquella persona que con su resta ha conseguido el 0).
+
 import random
 def game():
     gameNum=20
